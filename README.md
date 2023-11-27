@@ -19,14 +19,8 @@ In artificial intelligence, automatic speech recognition refers to machines and 
 
 
 <video controls="" autoplay="" name="media">
-    <source src="https://github.com/ahmadrezabaqerzade/Automatic-Speech-Recognition/blob/main/audio/LJ025-0076.wav" type="audio/mp3">
+    <source src="https://github.com/ahmadrezabaqerzade/Automatic-Speech-Recognition/blob/main/audio/LJ025-0076.wav" type="audio/wav">
 </video>
-
-<script>
-    var audio = new Audio('https://github.com/ahmadrezabaqerzade/Automatic-Speech-Recognition/blob/main/audio/LJ025-0076.wav?raw=true');
-    audio.play();
-</script>
-
 
 
 **Many animals of even complex structure which live parasitically within others are wholly devoid of an alimentary cavity.**
