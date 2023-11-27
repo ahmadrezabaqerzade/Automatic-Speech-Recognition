@@ -18,9 +18,8 @@ One of these domains is speech recognition, which is widely used in everyday lif
 In artificial intelligence, automatic speech recognition refers to machines and computers being able to analyze and decode speech based on learning, and then convert it into text.
 
 
-<video controls="" autoplay="" name="media">
-    <source src="https://github.com/ahmadrezabaqerzade/Automatic-Speech-Recognition/blob/main/audio/LJ025-0076.mp4" type="video/mp4">
-</video>
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://github.com/ahmadrezabaqerzade/Automatic-Speech-Recognition/blob/main/audio/LJ025-0076.mp4)
+
 
 
 **Many animals of even complex structure which live parasitically within others are wholly devoid of an alimentary cavity.**
