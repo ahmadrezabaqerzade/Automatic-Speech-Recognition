@@ -21,7 +21,10 @@ In artificial intelligence, automatic speech recognition refers to machines and 
 
 Mixture Variants:
 
-https://user-images.githubusercontent.com/6877923/115474571-03c75800a23e-11eb-8096-8973aad5fa9f.mp4
+<script>
+    var audio = new Audio('https://github.com/ahmadrezabaqerzade/Automatic-Speech-Recognition/blob/main/audio/LJ025-0076.wav?raw=true');
+    audio.play();
+</script>
 
 <source src="https://github.com/ahmadrezabaqerzade/Automatic-Speech-Recognition/blob/main/audio/LJ025-0076.wav" data-track-title="Track title goes here" />
 
