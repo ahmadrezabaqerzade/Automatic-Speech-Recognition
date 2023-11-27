@@ -16,3 +16,7 @@ Artificial intelligence has made significant advancements in the field of speech
 One of these domains is speech recognition, which is widely used in everyday life nowadays. Examples include virtual assistants like Alexa and Cortana, customer support services, translation, video subtitles, voice commands, and more. Simply put, speech recognition means converting speech into text. After extracting the semantic features of speech, it can also be transformed into text.
 
 In artificial intelligence, automatic speech recognition refers to machines and computers being able to analyze and decode speech based on learning, and then convert it into text.
+
+![Audio][https://github.com/ahmadrezabaqerzade/Automatic-Speech-Recognition/blob/main/audio/LJ025-0076.wav]
+
+**Many animals of even complex structure which live parasitically within others are wholly devoid of an alimentary cavity.**
