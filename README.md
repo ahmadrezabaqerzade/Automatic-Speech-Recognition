@@ -19,9 +19,9 @@ In artificial intelligence, automatic speech recognition refers to machines and 
 
 <audio src="https://github.com/ahmadrezabaqerzade/Automatic-Speech-Recognition/blob/main/audio/LJ025-0076.wav" controls preload></audio>
 
-a:
+Mixture Variants:
 
-https://github.com/ahmadrezabaqerzade/Automatic-Speech-Recognition/blob/main/audioLJ025-0076.wav
+https://user-images.githubusercontent.com/6877923/115474571-03c75800a23e-11eb-8096-8973aad5fa9f.mp4
 
 <source src="https://github.com/ahmadrezabaqerzade/Automatic-Speech-Recognition/blob/main/audio/LJ025-0076.wav" data-track-title="Track title goes here" />
 
