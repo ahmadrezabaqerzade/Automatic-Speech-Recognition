@@ -1,4 +1,13 @@
-#Problem Statement:
+<div align="center">
+    <img src="https://github.com/ahmadrezabaqerzade/Automatic-Speech-Recognition/blob/main/images/speech-to-text-remixed.png" alt="Logo" width="" height="200">
+  </a>
+
+<h1 align="center">Automatic Speech Recognition</h1>
+</div>
+
+
+
+## 1. Problem Statement:
 
 Speech, like images, text, and others, has certain characteristics that can be analyzed to extract semantic features and used in various domains.
 
