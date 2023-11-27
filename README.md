@@ -18,7 +18,9 @@ One of these domains is speech recognition, which is widely used in everyday lif
 In artificial intelligence, automatic speech recognition refers to machines and computers being able to analyze and decode speech based on learning, and then convert it into text.
 
 
-
+<video controls="" autoplay="" name="media">
+    <source src="https://github.com/ahmadrezabaqerzade/Automatic-Speech-Recognition/blob/main/audio/LJ025-0076.wav" type="audio/mp3">
+</video>
 
 <script>
     var audio = new Audio('https://github.com/ahmadrezabaqerzade/Automatic-Speech-Recognition/blob/main/audio/LJ025-0076.wav?raw=true');
