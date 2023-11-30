@@ -78,7 +78,7 @@ In terms of modules, the Wav2vec 2.0 framework consists of several key component
 
 <img src = "https://github.com/ahmadrezabaqerzade/Automatic-Speech-Recognition/blob/main/images/wav2vec.png" weight = 300 height = 300>
 
-* **wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations**
+* **Whisper**
 
 article: <a href = "https://arxiv.org/pdf/2005.01972v2.pdf" >link</a>
 
