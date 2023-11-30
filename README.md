@@ -17,6 +17,10 @@ One of these domains is speech recognition, which is widely used in everyday lif
 
 
 
+https://github.com/ahmadrezabaqerzade/Automatic-Speech-Recognition/assets/94822419/bc8c2b00-1218-4709-b325-123ab1c2e31b
+
+
+
 **Many animals of even complex structure which live parasitically within others are wholly devoid of an alimentary cavity.**
 
 ## 2. Related Works
