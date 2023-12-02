@@ -105,11 +105,11 @@ Below, you can see the relevant block diagrams for the training and inference se
 
 * **train:**
 
-<img src = "">
+<img src = "https://github.com/ahmadrezabaqerzade/Automatic-Speech-Recognition/blob/main/images/trainblock.png">
 
 * **inference:**
 
-<img src = "">
+<img src = "https://github.com/ahmadrezabaqerzade/Automatic-Speech-Recognition/blob/main/images/inferencestructure.png">
 
 
 
