@@ -98,6 +98,7 @@ code: -
 
 ## 3. The Proposed Method
 
+Since Transformers are widely used in speech recognition and many models are built based on Transformer architectures, we choose the base Transformer model to understand its structure and attempt to enhance it with new techniques.
 
 ## 4. Implementation
 Below, you can see the relevant block diagrams for the training and inference sections:
