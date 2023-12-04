@@ -125,11 +125,11 @@ Below, you can see the relevant block diagrams for the training and inference se
 
 **test.txt:** test audios id
 
-On average, there are 19 tokens in a sound, with a minimum of 1 token per word and a maximum of 44 tokens. Approximately 75% of the sounds have 24 tokens or fewer. The average number of repetitions for a token is 16.5 times, with a minimum of 1 repetition and a maximum of 17,474 repetitions. In total, we have 14,416 tokens, which can be increased to 14,420 by adding special tokens. We have 6 tokens in the vocabulary that were repeated more than 5,000 times, with the token "the" having the highest repetition count of 17,474. After that, the tokens "," ".", "of," and "and" had the highest repetitions. 5,921 tokens were repeated only once.You can see the histogram of repetition counts for the vocabulary tokens in this image:
+On average, there are **19 tokens in a sound**, with a **minimum of 1 token** per word and a **maximum of 44 tokens**. Approximately **75%** of the sounds have **24 tokens or fewer**. The average number of repetitions for a token is **16.5 times**, with a **minimum of 1** repetition and a **maximum of 17,474** repetitions. In total, we have **14,416 tokens**, which can be increased to **14,420 by adding special tokens**. We have **6 tokens** in the vocabulary that were repeated more than **5,000 times**, with the token **"the"** having the highest repetition count of **17,474**. After that, the tokens **",", ".", "of," and "and"** had the highest repetitions. **5,921 tokens** were repeated **only once**.You can see the histogram of repetition counts for the vocabulary tokens in this image:
 
 <img src = "https://github.com/ahmadrezabaqerzade/Automatic-Speech-Recognition/blob/main/images/histogram.png">
 
-The average duration of the sounds is 6.5 seconds, with a minimum sound duration of 1.11 seconds, and a maximum of 10.09 seconds. 75% of the sounds are 8.38 seconds or shorter. The average total audio data is 0.000009, with a standard deviation of 0.066, calculated from the audio data vectors. 
+The average duration of the sounds is **6.5 seconds**, with a **minimum sound duration** of **1.11 seconds**, and a **maximum** of **10.09 seconds**. **75%** of the sounds are **8.38 seconds** or shorter. The **average total** audio data is **0.000009**, with a **standard deviation** of **0.066**, calculated from the **audio data vectors**. 
  
 
 
