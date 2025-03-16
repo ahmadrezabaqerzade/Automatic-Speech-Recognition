@@ -136,18 +136,33 @@ The average duration of the sounds is **6.5 seconds**, with a **minimum sound du
 **Add Noise:**
 
 
-
-
-
-
 https://github.com/user-attachments/assets/96140626-a54c-403e-b346-7bb8a8980552
 
+**Adjust Gain:**
 
 
+https://github.com/user-attachments/assets/36b3b2bc-3bb9-4bc6-a5fe-d34b4ebcbdf7
+
+**Clipping Distortion:**
 
 
+https://github.com/user-attachments/assets/bd4cdbf8-9416-4d44-aec0-74f530f1ca87
+
+**Pitch Shift:**
+
+https://github.com/user-attachments/assets/cf0d88e4-811a-4a8b-9a7c-522844c0b84b
+
+**Polarity Inversion:**
+
+https://github.com/user-attachments/assets/43befee0-a51d-421e-bd5b-ccf08bb84849
+
+**Time Masking:**
+
+https://github.com/user-attachments/assets/08cd24e5-9efc-4705-9c70-98831212e55c
+
+**Time Stretch:**
 
 
-
+https://github.com/user-attachments/assets/e728d629-35a9-4b2c-9336-8b7f0e3b7fab
 
 
