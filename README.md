@@ -131,8 +131,16 @@ On average, there are **19 tokens in a sound**, with a **minimum of 1 token** pe
 
 The average duration of the sounds is **6.5 seconds**, with a **minimum sound duration** of **1.11 seconds**, and a **maximum** of **10.09 seconds**. **75%** of the sounds are **8.38 seconds** or shorter. The **average total** audio data is **0.000009**, with a **standard deviation** of **0.066**, calculated from the **audio data vectors**. 
  
+### 4.2. Augment
+
+**Add Noise:**
 
 
+
+
+
+
+https://github.com/user-attachments/assets/96140626-a54c-403e-b346-7bb8a8980552
 
 
 
